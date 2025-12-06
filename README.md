@@ -9,10 +9,8 @@ flutter-messaging-dashboard/ ├── flutter_app/ ├── webpage/ └──
 ---
 ## **How to Run the Dashboard and Messaging App**
 
----
 
-## How to Start the Angular HTTP Server
-
+** How to Start the Angular HTTP Server
 ```bash
 cd webpage
 npm install
