@@ -68,7 +68,6 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
-// ✅ Your full Messaging UI
 class ChatScreen extends StatefulWidget {
   const ChatScreen({super.key});
 
