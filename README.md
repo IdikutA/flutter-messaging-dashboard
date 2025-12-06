@@ -7,6 +7,9 @@ This project is a full-stack assessment submission featuring a native Flutter me
 flutter-messaging-dashboard/ ├── flutter_app/ ├── webpage/ └── README.m
 
 ---
+## **How to Run the Dashboard and Messaging App**
+
+---
 
 ## How to Start the Angular HTTP Server
 
